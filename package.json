@@ -1,0 +1,25 @@
+{
+    "name": "soft-green",
+    "displayName": "Soft Green",
+    "description": "A healthier theme for your eyes",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lainbo/soft-green"
+    },
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Soft Green",
+                "uiTheme": "vs",
+                "path": "./themes/Soft Green-color-theme.json"
+            }
+        ]
+    }
+}
