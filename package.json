@@ -3,6 +3,7 @@
     "displayName": "Soft Green",
     "description": "A healthier theme for your eyes",
     "version": "0.0.1",
+    "publisher": "lainbo",
     "repository": {
         "type": "git",
         "url": "https://github.com/lainbo/soft-green"
