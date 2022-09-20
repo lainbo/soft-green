@@ -264,7 +264,7 @@
 			"scope": "token.storage.js,token.storage.ts",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "##d43383"
+				"foreground": "#d43383"
 			}
 		},
 		{
