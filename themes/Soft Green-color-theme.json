@@ -481,7 +481,7 @@
 			"name": "Class name",
 			"scope": "entity.name.class",
 			"settings": {
-				"foreground": "#4399ff"
+				"foreground": "#4090f3"
 			}
 		},
 		{
@@ -569,7 +569,7 @@
 			"name": "js console function",
 			"scope": "entity.name.function.js,support.function.console.js,entity.name.function.ts,support.function.console.ts",
 			"settings": {
-				"foreground": "#4399ff"
+				"foreground": "#4090f3"
 			}
 		},
 		{
