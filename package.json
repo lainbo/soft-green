@@ -2,8 +2,13 @@
     "name": "soft-green",
     "displayName": "Soft Green",
     "description": "A healthier theme for your eyes",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "lainbo",
+    "scripts": {
+        "install vsce": "npm install vsce -g --save vsce",
+        "build": "vsce package",
+        "publish": "vsce publish"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/lainbo/soft-green"
