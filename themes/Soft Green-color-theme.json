@@ -6,12 +6,12 @@
 		"editorCursor.foreground": "#000000",
 		"editor.lineHighlightBackground": "#e8dfc4ff",
 		"editor.selectionBackground": "#d0e6a8c4",
-		"editorBracketHighlight.foreground1": "#0033ff",
-		"editorBracketHighlight.foreground2": "#ff0033",
-		"editorBracketHighlight.foreground3": "#0055FF",
-		"editorBracketHighlight.foreground4": "#9900ff",
-		"editorBracketHighlight.foreground5": "#ff3300",
-    "editorBracketHighlight.foreground6": "#ff23ab",
+		"editorBracketHighlight.foreground1": "#ff0033",
+		"editorBracketHighlight.foreground2": "#0033ff",
+		"editorBracketHighlight.foreground3": "#ff3c00",
+		"editorBracketHighlight.foreground4": "#0055FF",
+    "editorBracketHighlight.foreground5": "#ff23ab",
+		"editorBracketHighlight.foreground6": "#9900ff",
 		"editorWhitespace.foreground": "#404040",
 		"editorIndentGuide.background": "#f7f2e4",
 		"editorWidget.background": "#eee8d5",
@@ -173,7 +173,7 @@
 			"name": "Constant",
 			"scope": "constant",
 			"settings": {
-				"foreground": "#9b1cebff"
+				"foreground": "#9f1bf1"
 			}
 		},
 		{
@@ -245,7 +245,8 @@
 			"name": "Keyword Control",
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#d43383"
+				"foreground": "#ec2d7a",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
@@ -253,7 +254,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#d43383"
+				"foreground": "#DC1376"
 			}
 		},
 		{
@@ -261,7 +262,7 @@
 			"scope": "token.storage.js,token.storage.ts",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#d43383"
+				"foreground": "#DC1376"
 			}
 		},
 		{
@@ -320,7 +321,7 @@
 			"name": "Variables",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#04880b"
+				"foreground": "#078600"
 			}
 		},
 		{
@@ -335,7 +336,7 @@
 			"scope": "keyword.operator",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#577909"
+				"foreground": "#0f95b0"
 			}
 		},
 		{
@@ -569,7 +570,7 @@
 			"name": "js console function",
 			"scope": "entity.name.function.js,support.function.console.js,entity.name.function.ts,support.function.console.ts",
 			"settings": {
-				"foreground": "#4090f3"
+				"foreground": "#1D79EC"
 			}
 		},
 		{
