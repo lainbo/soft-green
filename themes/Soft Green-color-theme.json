@@ -165,8 +165,8 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#95a3abff"
+				"fontStyle": "",
+				"foreground": "#adb4b8"
 			}
 		},
 		{
@@ -356,8 +356,8 @@
 			"name": "Invalid – Deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#333333ff",
-				"fontStyle": "strikethrough"
+				"foreground": "#cb2d01",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -496,7 +496,7 @@
 			"scope": "support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#d19a66"
+				"foreground": "#cf8f3b"
 			}
 		},
 		{
@@ -504,7 +504,7 @@
 			"scope": "support.constant.color.w3c-standard-color-name.css,entity.other.attribute-name.class.css",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#d19a66"
+				"foreground": "#cf8f3b"
 			}
 		},
 		{
@@ -539,7 +539,7 @@
 			"name": "js json",
 			"scope": "support.constant.json.js,support.constant.json.ts",
 			"settings": {
-				"foreground": "#d19a66"
+				"foreground": "#cf8f3b"
 			}
 		},
 		{
