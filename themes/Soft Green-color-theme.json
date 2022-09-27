@@ -327,7 +327,7 @@
 			"name": "Variable.parameter",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#a57800ff"
+				"foreground": "#ca7300"
 			}
 		},
 		{
@@ -349,7 +349,7 @@
 			"name": "keyword.operator",
 			"scope": "keyword.operator.arithmetic.js,keyword.operator.comparison.js,keyword.operator.arithmetic.ts,keyword.operator.comparison.ts",
 			"settings": {
-				"foreground": "#56b6c2"
+				"foreground": "#2598da"
 			}
 		},
 		{
