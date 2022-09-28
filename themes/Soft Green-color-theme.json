@@ -285,7 +285,7 @@
 			"name": "String",
 			"scope": "string | punctuation.definition.string",
 			"settings": {
-				"foreground": "#12a282"
+				"foreground": "#159FA2"
 			}
 		},
 
@@ -293,7 +293,7 @@
 			"name": "Strings, Inherited Class",
 			"scope": "string, entity.other.inherited-class",
 			"settings": {
-				"foreground": "#12a282"
+				"foreground": "#159FA2"
 			}
 		},
 		{
