@@ -8,7 +8,7 @@
 		"editor.selectionBackground": "#d0e6a8c4",
 		"editorBracketHighlight.foreground1": "#ff0033",
 		"editorBracketHighlight.foreground2": "#0033ff",
-		"editorBracketHighlight.foreground3": "#ff3c00",
+		"editorBracketHighlight.foreground3": "#E83015",
 		"editorBracketHighlight.foreground4": "#0055FF",
     "editorBracketHighlight.foreground5": "#ff23ab",
 		"editorBracketHighlight.foreground6": "#9900ff",
@@ -245,8 +245,8 @@
 			"name": "Keyword Control",
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#ec2d7a",
-				"fontStyle": "italic bold"
+				"foreground": "#d0104c",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -285,7 +285,7 @@
 			"name": "String",
 			"scope": "string | punctuation.definition.string",
 			"settings": {
-				"foreground": "#2aa198"
+				"foreground": "#12a282"
 			}
 		},
 
@@ -293,21 +293,21 @@
 			"name": "Strings, Inherited Class",
 			"scope": "string, entity.other.inherited-class",
 			"settings": {
-				"foreground": "#2aa198"
+				"foreground": "#12a282"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "Number",
 			"settings": {
-				"foreground": "#9b3affff"
+				"foreground": "#9f1bf1"
 			}
 		},
 		{
 			"name": "Build–in constant",
 			"scope": "",
 			"settings": {
-				"foreground": "#9b3affff"
+				"foreground": "#9f1bf1"
 			}
 		},
 		{
@@ -321,7 +321,7 @@
 			"name": "Variables",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#078600"
+				"foreground": "#20814D"
 			}
 		},
 		{
