@@ -5,11 +5,11 @@
 		"editor.background": "#fffae8",
 		"editorCursor.foreground": "#000000",
 		"editor.lineHighlightBackground": "#e8dfc4ff",
-		"editor.selectionBackground": "#d0e6a8c4",
+		"editor.selectionBackground": "#dcebd1",
 		"editorBracketHighlight.foreground1": "#ff0033",
 		"editorBracketHighlight.foreground2": "#0033ff",
-		"editorBracketHighlight.foreground3": "#E83015",
-		"editorBracketHighlight.foreground4": "#0055FF",
+		"editorBracketHighlight.foreground3": "#ed3333",
+		"editorBracketHighlight.foreground4": "#0077FF",
     "editorBracketHighlight.foreground5": "#ff23ab",
 		"editorBracketHighlight.foreground6": "#9900ff",
 		"editorWhitespace.foreground": "#404040",
@@ -166,7 +166,7 @@
 			"scope": "comment",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#adb4b8"
+				"foreground": "#b8b8b8"
 			}
 		},
 		{
@@ -285,7 +285,7 @@
 			"name": "String",
 			"scope": "string | punctuation.definition.string",
 			"settings": {
-				"foreground": "#159FA2"
+				"foreground": "#14909D"
 			}
 		},
 
@@ -293,7 +293,7 @@
 			"name": "Strings, Inherited Class",
 			"scope": "string, entity.other.inherited-class",
 			"settings": {
-				"foreground": "#159FA2"
+				"foreground": "#14909D"
 			}
 		},
 		{
@@ -533,7 +533,7 @@
 			"name": "js variable readwrite",
 			"scope": "variable.other.readwrite.js,meta.object-literal.key.js,support.variable.property.js,support.variable.object.process.js,variable.other.readwrite.ts,meta.object-literal.key.ts,support.variable.property.ts,support.variable.object.process.ts",
 			"settings": {
-				"foreground": "#06a"
+				"foreground": "#126bb2"
 			}
 		},
 		{
