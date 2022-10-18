@@ -1,11 +1,13 @@
 # Soft Green
-## 一个对你眼睛更健康的主题
-### 主题基于 [TinyLight](https://marketplace.visualstudio.com/items?itemName=luqimin.tiny-light)
-### 更丰富的颜色
-### 颜色参考
+English | [简体中文](./README.zh-CN.md)
+
+## A theme that's healthier for your eyes
+### The theme is based on [TinyLight](https://marketplace.visualstudio.com/items?itemName=luqimin.tiny-light)
+### More colorful
+### Color Reference
 + [中国传统颜色](http://zhongguose.com/)
 + [日本の伝統色](https://nipponcolors.com/)
-### 常用颜色均根据[无障碍色彩对比度](https://color.review/)调整，保证可读性
+### Common colors are adjusted according to [Color review](https://color.review/) to ensure accessibility
 
 ![](https://p0.ssl.qhmsg.com/t011722eea76e163319.png)
 <br />
