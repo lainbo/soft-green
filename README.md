@@ -1,7 +1,7 @@
 # Soft Green
 English | [简体中文](./README.zh-CN.md)
 
-## A theme that's healthier for your eyes
+## A theme that's healthier for your eyes. Hope you like it.
 ### The theme is based on [TinyLight](https://marketplace.visualstudio.com/items?itemName=luqimin.tiny-light)
 ### More colorful
 ### Color Reference
