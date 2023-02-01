@@ -9,6 +9,6 @@ English | [简体中文](./README.zh-CN.md)
 + [日本の伝統色](https://nipponcolors.com/)
 ### Common colors are adjusted according to [Color review](https://color.review/) to ensure accessibility
 
-![](https://p0.ssl.qhmsg.com/t011722eea76e163319.png)
+![](/assets/img/demo1.png)
 <br />
-![](https://p0.ssl.qhmsg.com/t01b82fd40fb3a6f94d.png)
+![](/assets/img/demo2.png)
