@@ -1,9 +1,9 @@
 {
 	"name": "Soft Green",
 	"colors": {
-		"focusBorder":"#48b2b6",
-		"widget.shadow":"#207f4c25",
-		"sash.hoverBorder":"#1ba784",
+		"focusBorder": "#48b2b6",
+		"widget.shadow": "#207f4c25",
+		"sash.hoverBorder": "#1ba784",
 		"editor.foreground": "#222222",
 		"editor.background": "#fffae8",
 		"editorCursor.foreground": "#253d24",
@@ -13,19 +13,19 @@
 		"editorBracketHighlight.foreground2": "#0033ff",
 		"editorBracketHighlight.foreground3": "#ed3333",
 		"editorBracketHighlight.foreground4": "#0077FF",
-    "editorBracketHighlight.foreground5": "#ff23ab",
+		"editorBracketHighlight.foreground5": "#ff23ab",
 		"editorBracketHighlight.foreground6": "#9900ff",
 		"editorWhitespace.foreground": "#404040",
 		"editorIndentGuide.background": "#f7f2e4",
-		"editor.findMatchBackground":"#ff003366",
+		"editor.findMatchBackground": "#ff003366",
 		"editor.findMatchBorder": "#00539766",
-		"editor.findMatchHighlightBackground":"#2480672f",
-		"editor.selectionHighlightBackground":"#0077FF2f",
-		"editor.wordHighlightStrongBorder":"#0077FF34",
+		"editor.findMatchHighlightBackground": "#2480672f",
+		"editor.selectionHighlightBackground": "#0077FF2f",
+		"editor.wordHighlightStrongBorder": "#0077FF34",
 		"editorWidget.background": "#eee8d5",
 		"editorGroupHeader.tabsBackground": "#eee8d5",
-		"editorWidget.border":"#207f4c30",
-		"editorGroup.dropBackground":"#207f4c30",
+		"editorWidget.border": "#207f4c30",
+		"editorGroup.dropBackground": "#207f4c30",
 		"list.focusBackground": "#dfca8866",
 		"list.activeSelectionBackground": "#ddc871",
 		"list.activeSelectionForeground": "#1f2623",
@@ -62,7 +62,6 @@
 		"statusBarItem.hoverBackground": "#eae0c0",
 		"statusBarItem.activeBackground": "#ded0a0",
 		"statusBarItem.prominentBackground": "#ddd6c1",
-
 		"terminal.background": "#eee8d5",
 		"terminal.foreground": "#383838",
 		"terminal.ansiBlack": "#000000",
@@ -81,9 +80,10 @@
 		"terminal.ansiRed": "#f51818",
 		"terminal.ansiWhite": "#6c7880",
 		"terminal.ansiYellow": "#f2ae49",
-		"scrollbar.shadow":"#aaaaaa99",
+		"scrollbar.shadow": "#aaaaaa99",
 	},
-	"tokenColors": [{
+	"tokenColors": [
+		{
 			"settings": {
 				"foreground": "#3e4b53",
 			}
@@ -307,7 +307,6 @@
 				"foreground": "#14909D"
 			}
 		},
-
 		{
 			"name": "Strings, Inherited Class",
 			"scope": "string, entity.other.inherited-class",
