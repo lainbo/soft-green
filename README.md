@@ -7,7 +7,7 @@ English | [简体中文](./README.zh-CN.md)
   + [Relevant article arguments](https://hx.dcloud.net.cn/Tutorial/Other/health?id=easy-on-the-eyes-soft-green-theme) 
   If the website is not in English after entering, please click '多语言' in the upper right corner and select 'English'
 ### Color Reference
-+ [中国传统颜色](http://zhongguose.com/)
++ [中国传统颜色](https://colors.masantu.com/)
 + [日本の伝統色](https://nipponcolors.com/)
 ### Common colors are adjusted according to [Color review](https://color.review/) to ensure accessibility
 
