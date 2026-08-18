@@ -1,0 +1,7 @@
+id = "soft-green"
+name = "Soft Green"
+version = "0.1.18"
+schema_version = 1
+authors = ["lainbo <lainbo@qq.com>"]
+description = "A healthier theme for your eyes"
+repository = "https://github.com/lainbo/soft-green"
